@@ -1,6 +1,8 @@
 # Swipe-or-Pass-The-Influence-of-Including-a-Dog-in-Dating-App-Profiles-on-Perceived-Attractiveness.
 Swipe or Pass? The Influence of Including a Dog in Dating App Profiles on Perceived Attractiveness.
 
+Group Members: David Chen, Fuyi Pao, Raj Patel, Syeda Ghazal Qadri, Yunxi Cheng. 
+
 Swipe or Pass is an experiment that was run for BA830, Business Experimentation and Causal Methods, a graduate course for my Business Analytics degree at Boston University. 
 
 For this project, our team created a questionnaire on Qualtrics which mimicked the platform of a dating app to understand the likelihood of a male finding a match on a dating app if a picture was posted with a dog. 
